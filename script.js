@@ -6,3 +6,4 @@ fetch('ticker.txt')
       document.getElementById('ticker-text').innerText = data;
   })
   .catch(error => console.error('Error loading ticker text:', error));
+//moi
